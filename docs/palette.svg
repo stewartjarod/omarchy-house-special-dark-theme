@@ -13,9 +13,9 @@
 <rect x="648" y="438" width="240" height="150" rx="14" fill="#45475a"/>
 <text x="650" y="628" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#bac2de">Selection</text>
 <text x="650" y="664" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#7f849c">#45475a</text>
-<rect x="912" y="438" width="240" height="150" rx="14" fill="#585b70"/>
+<rect x="912" y="438" width="240" height="150" rx="14" fill="#72758b"/>
 <text x="914" y="628" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#bac2de">Muted</text>
-<text x="914" y="664" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#7f849c">#585b70</text>
+<text x="914" y="664" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#7f849c">#72758b</text>
 <rect x="1176" y="438" width="240" height="150" rx="14" fill="#bac2de"/>
 <text x="1178" y="628" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#bac2de">Text</text>
 <text x="1178" y="664" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#7f849c">#bac2de</text>
@@ -23,9 +23,9 @@
 <text x="1442" y="628" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#bac2de">Accent</text>
 <text x="1442" y="664" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#7f849c">#cba6f7</text>
 <text x="120" y="730" font-family="JetBrainsMono Nerd Font" font-size="22" letter-spacing="4" fill="#7f849c">TERMINAL</text>
-<rect x="120" y="758" width="240" height="150" rx="14" fill="#d17890"/>
+<rect x="120" y="758" width="240" height="150" rx="14" fill="#d57c93"/>
 <text x="122" y="948" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#bac2de">Red</text>
-<text x="122" y="984" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#7f849c">#d17890</text>
+<text x="122" y="984" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#7f849c">#d57c93</text>
 <rect x="384" y="758" width="240" height="150" rx="14" fill="#8fc38a"/>
 <text x="386" y="948" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#bac2de">Green</text>
 <text x="386" y="984" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#7f849c">#8fc38a</text>

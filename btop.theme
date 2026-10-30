@@ -40,7 +40,7 @@ theme[div_line]="#6c7086"
 # Temperature graph color (Green -> Yellow -> Red)
 theme[temp_start]="#8fc38a"
 theme[temp_mid]="#d6c296"
-theme[temp_end]="#d17890"
+theme[temp_end]="#d57c93"
 
 # CPU graph colors (Teal -> Sapphire -> Lavender)
 theme[cpu_start]="#7fc2b7"
@@ -60,7 +60,7 @@ theme[cached_end]="#9ba3da"
 # Mem/Disk available meter (Peach -> Red)
 theme[available_start]="#d79a74"
 theme[available_mid]="#ca8a94"
-theme[available_end]="#d17890"
+theme[available_end]="#d57c93"
 
 # Mem/Disk used meter (Green -> Sky)
 theme[used_start]="#8fc38a"
@@ -70,7 +70,7 @@ theme[used_end]="#76bdca"
 # Download graph colors (Peach -> Red)
 theme[download_start]="#d79a74"
 theme[download_mid]="#ca8a94"
-theme[download_end]="#d17890"
+theme[download_end]="#d57c93"
 
 # Upload graph colors (Green -> Sky)
 theme[upload_start]="#8fc38a"
